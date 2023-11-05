@@ -1,0 +1,10 @@
+D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\bin\Debug\Server.exe.config
+D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\bin\Debug\Server.exe
+D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\bin\Debug\Server.pdb
+D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\obj\Debug\Server.FrmServer.resources
+D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\obj\Debug\Server.Properties.Resources.resources
+D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\obj\Debug\Server.exe
+D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\obj\Debug\Server.pdb
