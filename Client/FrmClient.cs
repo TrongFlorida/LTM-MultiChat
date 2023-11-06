@@ -87,6 +87,7 @@ namespace Client
         void Dong()
         {
             sckClient.Close();
+            this.Close();
         }
 
         /// <summary>

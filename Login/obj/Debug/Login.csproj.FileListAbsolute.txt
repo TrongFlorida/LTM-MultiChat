@@ -15,3 +15,20 @@ D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Login\obj\Debug\Login.cspro
 D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Login\obj\Debug\Login.csproj.CopyComplete
 D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Login\obj\Debug\Login.exe
 D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Login\obj\Debug\Login.pdb
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\bin\Debug\Login.exe.config
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\bin\Debug\Login.exe
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\bin\Debug\Login.pdb
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\bin\Debug\Client.exe
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\bin\Debug\Server.exe
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\bin\Debug\Client.pdb
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\bin\Debug\Client.exe.config
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\bin\Debug\Server.pdb
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\bin\Debug\Server.exe.config
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\obj\Debug\Login.FrmLogin.resources
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\obj\Debug\Login.exe
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Login\obj\Debug\Login.pdb

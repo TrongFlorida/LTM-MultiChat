@@ -8,3 +8,13 @@ D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\obj\Debug\Server.csp
 D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\obj\Debug\Server.exe
 D:\hocKiNay\lapTrinhMang\TranslateChat\TranslateChat\Server\obj\Debug\Server.pdb
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Server\bin\Debug\Server.exe.config
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Server\bin\Debug\Server.exe
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Server\bin\Debug\Server.pdb
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Server\obj\Debug\Server.exe
+C:\Users\LENOVO\Desktop\Workspace\Study\ThirdYear\FirstSem\NetworkProgramming - Lap Trinh Mang\C#\Translate Chat\Server\obj\Debug\Server.pdb

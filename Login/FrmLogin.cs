@@ -24,11 +24,20 @@ namespace Login
             if(txtUsername.Text == "admin" && txtPassword.Text == "admin")
             {
                 FrmServer server = new FrmServer();
+                this.Hide();
                 server.ShowDialog();
+                server.Close();
+                this.Show();
+                this.Close();
+                
             } else if(txtUsername.Text == "user" &&  txtPassword.Text == "123") 
             {
                 FrmClient client = new FrmClient();
+                this.Hide();
                 client.ShowDialog();
+                client.Close();
+                this.Show();
+                this.Close();
             } else
             {
                 MessageBox.Show("Tài khoản hoặc Mật khẩu không chính xác", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);

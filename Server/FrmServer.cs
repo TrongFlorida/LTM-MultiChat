@@ -108,6 +108,7 @@ namespace Server
         void Dong()
         {
             sckServer.Close();
+            this.Close();
         }
 
         /// <summary>
