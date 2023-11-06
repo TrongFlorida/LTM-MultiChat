@@ -137,7 +137,7 @@ namespace Client
             lsvMessage.Items.Add(msg);
 
             ListViewItem msg1 = new ListViewItem();
-            msg1.Text = "Server: " + myMsg;
+            msg1.Text = "Client: " + myMsg;
             listView1.Items.Add(msg1);
         }
 
