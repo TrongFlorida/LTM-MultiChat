@@ -167,6 +167,10 @@ namespace Server
             ListViewItem msg = new ListViewItem();
             msg.Text = "Server: " + myMsg;
             lsvMessage.Items.Add(msg);
+
+            ListViewItem msg1 = new ListViewItem();
+            msg1.Text = "Server: " + myMsg;
+            listView1.Items.Add(msg1);
         }
 
         /// <summary>
@@ -176,8 +180,15 @@ namespace Server
         void AddReceiveMessage(string receiveMsg)
         {
             ListViewItem msg = new ListViewItem();
+            ListViewItem noti = new ListViewItem();
+            noti.Text = "Translated from Vietnamese:";
             msg.Text = "Client: " + TranslateText(receiveMsg);
+            lsvMessage.Items.Add(noti);
             lsvMessage.Items.Add(msg);
+
+            ListViewItem msg1 = new ListViewItem();
+            msg1.Text = "Client: " + receiveMsg;
+            listView1.Items.Add(msg1);
         }
 
         /// <summary>
@@ -221,6 +232,11 @@ namespace Server
         private void FrmServer_FormClosed(object sender, FormClosedEventArgs e)
         {
             this.Close();
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -133,8 +133,12 @@ namespace Client
         void AddMyMessage(string myMsg)
         {
             ListViewItem msg = new ListViewItem();
-            msg.Text = "Server: " + myMsg;
+            msg.Text = "Client: " + myMsg;
             lsvMessage.Items.Add(msg);
+
+            ListViewItem msg1 = new ListViewItem();
+            msg1.Text = "Server: " + myMsg;
+            listView1.Items.Add(msg1);
         }
 
         /// <summary>
@@ -144,8 +148,15 @@ namespace Client
         void AddReceiveMessage(string receiveMsg)
         {
             ListViewItem msg = new ListViewItem();
-            msg.Text = "Client: " + TranslateText(receiveMsg);
+            ListViewItem noti = new ListViewItem();
+            noti.Text = "Translated from English:";
+            msg.Text = "Server: " + TranslateText(receiveMsg);
+            lsvMessage.Items.Add(noti);
             lsvMessage.Items.Add(msg);
+
+            ListViewItem msg1 = new ListViewItem();
+            msg1.Text = "Server: " + receiveMsg;
+            listView1.Items.Add(msg1);
         }
 
         /// <summary>
@@ -189,6 +200,16 @@ namespace Client
         private void FrmClient_FormClosed(object sender, FormClosedEventArgs e)
         {
             this.Close();
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
